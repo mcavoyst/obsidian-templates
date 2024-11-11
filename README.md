@@ -13,8 +13,6 @@ This repository contains a collection of custom templates for [Obsidian](https:/
 
 To get started with these templates, simply clone this repository and move or copy the template files into your Obsidian vault's `Templates` folder (or any folder where you store your templates). Obsidian will automatically recognize them as available templates for your notes.
 
-### Clone the Repository
-
 ## Usage
 Open Obsidian and navigate to your vault.
 If you haven't already, enable the Templates plugin from the Obsidian settings.
