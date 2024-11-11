@@ -15,8 +15,10 @@ To get started with these templates, simply clone this repository and move or co
 
 ## Usage
 Open Obsidian and navigate to your vault.
+
 If you haven't already, enable the Templates plugin from the Obsidian settings.
 Set the path to the Templates folder in the plugin settings to point to the folder where you've saved these templates.
+
 Use the Templates plugin to insert your desired template into a note.
 
 ## Contributing
