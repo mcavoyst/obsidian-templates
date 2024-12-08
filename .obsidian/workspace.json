@@ -11,14 +11,13 @@
             "id": "f0da364f01afe0a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "templates/Achievement.md",
+                "staged": false
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "git-pull-request",
+              "title": "Diff View (Achievement)"
             }
           }
         ]
@@ -170,18 +169,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1e0b4fe28cd84d61",
+  "active": "f0da364f01afe0a8",
   "lastOpenFiles": [
+    "README.md",
+    "templates/Work Experience.md",
+    "templates/open.url",
     "Daily Notes",
     "Weekly Notes",
     "templates/Achievement.md",
     "templates/Daily Note.md",
     "templates/Meeting Note.md",
     "templates/Weekly Note.md",
-    "README.md",
     "LICENSE",
     "obsidian-templates/README.md",
     "obsidian-templates/LICENSE",
