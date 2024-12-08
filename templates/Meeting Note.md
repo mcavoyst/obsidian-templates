@@ -8,13 +8,14 @@ created-time: "{{time}}"
 meeting-date: false
 ---
 ## Purpose
-
+-------------
 
 ## Prep
-
+------------
 
 ## Follow up
-
+--------------
 
 ## Notes
--
+-----------
+* 

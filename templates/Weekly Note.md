@@ -8,7 +8,7 @@ created-date: "{{date}}"
 objective-achieved: false
 ---
 # Planning
-
+--------------
 ### This Week's Main Objective:
 
 

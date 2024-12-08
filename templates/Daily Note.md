@@ -8,10 +8,11 @@ created-date: "{{date}} {{time}}"
 objective-achieved: false
 ---
 ## Today's Objective
+------------
 * 
 
-
 ## Notes
+------------
 
 
 
